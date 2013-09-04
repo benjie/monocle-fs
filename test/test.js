@@ -5,7 +5,7 @@ var fs = require("../lib/fs")
   , path = require("path")
   , testDir = path.resolve(__dirname)
   , should = require("should")
-  , run = require("monocle.js").run;
+  , run = require("monocle-js").run;
 
 describe('monocle-fs', function() {
   var testData = 'foo bar baz';
