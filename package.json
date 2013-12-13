@@ -6,7 +6,7 @@
     "sync",
     "fs"
   ],
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "jlipps@gmail.com",
   "repository": {
     "type": "git",
@@ -23,7 +23,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "monocle-js": "~0.1.4",
+    "monocle-js": "~0.3.0",
     "underscore": "~1.5.1"
   },
   "scripts": {
