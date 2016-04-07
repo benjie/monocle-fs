@@ -23,7 +23,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "monocle-js": "~0.4.0",
+    "monocle-js": "*",
     "underscore": "~1.5.1"
   },
   "scripts": {
